@@ -2,7 +2,7 @@
 
 ##summary on deliverable 1
 
-Vehicle_length and ground_clearance have very low p-values of 2.60e-12 and 5.21e-08 respectively and would influence MPG
+Vehicle_length and ground_clearance have very low p-values of 2.60e-12 and 5.21e-08 respectively. They are statistically significant as being < 0.05. It is a strong evifence against the null hypothesis and we reject the null hypothesis and would influence MPG. We accept the alternate hypothesis
 
 ##summary  on deleverable 2
 At 1498.78, tire pressure is lower than it should be.
