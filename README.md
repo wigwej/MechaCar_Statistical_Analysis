@@ -18,3 +18,12 @@ Also, the variance and standard deviation for Lot 3 are extremely high. Lot 3 ap
 LOT 3: It does appear that the sample is not from the population. It has a low p-value of 0.0416, which is below 0.05
 
 At -2.0916, the te test has a value lower than it should. It is suggested that it does contain a couple of outliers.
+
+**Study Design: MechaCar vs Competition - Deliverable 4
+
+In order to carry out a comparison of MechaCar against the cmpetition, I will use the two way ANOVA test. The reason is that AVOVA (analysis of variance) checks th means of 2 or more groups.
+
+To adrees salient factos such as cost, higway fuek efficacy, horsepower mileage, safety, We will measure mean, medan, variance and standard deviation and compare them.
+
+The null hypothesis H0 = MechaCar performs in same way as its competition. There is no difference in performance between MechaCar and its comepetition. WE would seek to determine the p value. If p < 0.05, we will reject the null hypothesis.
+
